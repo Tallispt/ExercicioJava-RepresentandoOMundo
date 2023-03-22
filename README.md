@@ -1,13 +1,14 @@
-## Getting Started
+## Java exercice 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is an exercise from a Java acceleration bootcamp offered by Driven Education. The goal is to use object-oriented programming (OOP) to build a simple Java application with methods, properties, and intertwined classes that simulate a platform for educational purposes.
+
+
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
